@@ -1,0 +1,66 @@
+[
+    {
+      "precio": 55980,
+      "id": 1,
+      "title": "PLUMÓN SHERPA 2 PLAZAS SLATE",
+      "image": "https://cannonhome.cl/plumon-sherpa-2-plazas-slate.html",
+      "marca": "CANNON HOME"
+      
+    }, 
+    {
+      "precio": 47990,
+      "id": 2,
+      "title": "PLUMÓN SHERPA 2 PLAZAS SHADOW",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumontermico2plazasshadow_1.jpg",
+      "marca": "ELEMENTS & CO"
+    }, 
+    {
+      "precio": 55990,
+      "id": 3,
+      "title": "PLUMÓN SHERPA 2 PLAZAS AMARANTA",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumontermico2plazasamaranta_1.jpg",
+      "marca": "CANNON HOME"
+    }, 
+    {
+      "precio": 47990,
+      "id": 4,
+      "title": "PLUMÓN SHERPA 2 PLAZAS CINNAMON",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumontermico2plazascinnamon_1.jpg",
+      "marca": "CANNON HOME"
+    }, 
+    {
+      "precio": 48990,
+      "id": 5,
+      "title": "PLUMÓN 2 PLAZAS VISQUE",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plcnar100p20v_1.jpg",
+      "marca": "CANNON HOME"
+    }, 
+    {
+      "precio": 55990,
+      "id": 6,
+      "title": "PLUMÓN SHERPA 2 PLAZAS BLUEJAY",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumontermico2plazasbluejay_1.jpg",
+      "marca": "ELEMENTS & CO"
+    }, 
+    {
+      "precio": 40190,
+      "id": 7,
+      "title": "PLUMÓN SHERPA 1.5 PLAZAS SHADOW",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumontermico1.5plazasshadow_1.jpg",
+      "marca": "ELEMENTS & CO"
+    }, 
+    {
+      "precio": 69930,
+      "id": 8,
+      "title": "PLUMÓN SHERPA 2 PLAZAS SNOW TOASTED ROSADO",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumonpatagonico2plazastoastedrose_1.jpg",
+      "marca": "CANNON HOME"
+    },
+    {
+      "precio": 55990,
+      "id": 9,
+      "title": "PLUMÓN SHERPA 2 PLAZAS BLUEJAY",
+      "image": "https://cannonhome.cl/media/catalog/product/p/l/plumontermico2plazasbluejay_1.jpg",
+      "marca": "CANNON HOME"
+    }
+]
