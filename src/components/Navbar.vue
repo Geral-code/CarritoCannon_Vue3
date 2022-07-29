@@ -9,7 +9,7 @@
       <div class="navbar-nav">
         <router-link class="nav-link active" aria-current="page" to="/">Home</router-link>
         <router-link class="nav-link" to="/productos">Productos</router-link>       
-        <a class="nav-link" href="#">Tiendas</a>         
+        <!-- <a class="nav-link" href="#">Tiendas</a>          -->
       </div>
     </div>
   </div>

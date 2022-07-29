@@ -3,19 +3,27 @@
 </template>
 
 <script>
+
+
+
 export default {
+    name: 'Homeview',
+    components: {
+        
+    },
+
 data() {
+    
     return {
         products: {},
     }
 },
-methods: {
-    
-    
+created: {
+
 
 }
-
 }
+
 </script>
 
 <style>
