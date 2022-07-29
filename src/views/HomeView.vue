@@ -3,6 +3,7 @@
 
   
     <Navbar/>
+    <ProductCard/>
 
     <h2>Ropa de Cama</h2>
     <p>cannon</p>
@@ -10,10 +11,7 @@
 
    <div  v-for="product in products" :key="product.id">
     <img class v-bind:src="product.image" alt="plumon">
-    <h6> {{product.title}} </h6>
-
-    
-
+    <h6> {{product.title}} </h6> 
    </div>
    
 
@@ -24,12 +22,14 @@
 // @ is an alias to /src
 
 import axios from 'axios'
+import ProductCard from '@/components/ProductCard.vue';
 import Navbar from '@/components/Navbar.vue';
 
 export default {
   name: 'HomeView',
   components: {
     Navbar,
+    ProductCard
     
  
   },
@@ -60,3 +60,11 @@ export default {
 
 
 </script>
+
+<style scoped>
+
+img {
+  width: 300px;
+  height: 350px;
+}
+</style>
